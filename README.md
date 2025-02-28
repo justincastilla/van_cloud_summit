@@ -1,8 +1,8 @@
-# Introduction to OpenTelemetry with Python
+# Finding Your Balance: Observability with Elastic and OpenTelemetry
 OpenTelemetry (OTel) is a vendor-neutral, open-source framework for observability designed to be compatible with any backend system. It offers standardized APIs, libraries, and tools for gathering telemetry data, including metrics, logs, and traces. This presentation serves as an introduction to using OpenTelemetry with Python. This repository is a fork from [this](https://github.com/JessicaGarson/Introduction-to-OpenTelemetry-with-Python) repository by @JessicaGarson. 
 
 ## Slides
-You can find slides to accompany this talk in the folder of this repository entitled [slides](https://github.com/JustinCastilla/pycascades-lightning-observability/tree/main/Slides).
+You can find slides to accompany this talk in the folder of this repository entitled [slides](https://github.com/JustinCastilla/van_cloud_summit/tree/main/Slides).
 
 ## Resources 
 - [OpenTelemetry docs](https://opentelemetry.io/)
